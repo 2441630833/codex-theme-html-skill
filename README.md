@@ -100,5 +100,6 @@ Every hex, size and spacing value here was copied from that sheet, not invented.
 
 ## License
 
-No license file is included yet. Add one before redistributing if you need explicit terms —
-MIT is the usual choice for a skill like this.
+MIT — see [LICENSE](LICENSE). Copyright (c) 2025 2441630833.
+
+Use it, fork it, ship it in commercial work; keep the copyright notice. No warranty.
